@@ -12,4 +12,4 @@ export const recipesApi = createApi({
   }),
 })
 
-export const { useGetAllRecipesQuery } = recipesApi
+export const { useGetAllRecipesQuery } = recipesApi;
