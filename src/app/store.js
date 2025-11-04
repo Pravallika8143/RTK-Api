@@ -12,4 +12,4 @@ export const store = configureStore({
       recipesApi.middleware,
     ),
 })
-setupListeners(store.dispatch);
+setupListeners(store.dispatch)
